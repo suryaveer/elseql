@@ -1,6 +1,6 @@
 elseql
 ======
-You know, for Query
+You know, for Query.
 -------------------
 A SQL-like command line / REPL client for ElasticSearch
 
